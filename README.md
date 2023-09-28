@@ -1,2 +1,2 @@
-# python-course
+# python
 Kumpulan project / latihan python  
