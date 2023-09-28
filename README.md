@@ -1,2 +1,2 @@
 # python-course
-All python exercise In IndonesiaAI
+Kumpulan project / latihan python  
